@@ -32,3 +32,6 @@ All code is provided as chapter-specific Jupyter notebooks (download instruction
 * **Chapter 15**: *[Incrementality: The Holy Grail of Data Science?](/ch15_incrementality.ipynb)*
 * **Chapter 16**: *[A/B Tests](/ch16_abtests.ipynb)*
 * **Chapter 17**: *[Large Language Models and the Practice of Data Science](/ch17_llms.ipynb)*  
+
+### Substack
+I recently started writing blog posts on my [substack](https://decisionmatrix.substack.com/).  You can find the accompanying code [here](https://github.com/dvaughan79/data-science-hard-parts-code/tree/main/substack).
